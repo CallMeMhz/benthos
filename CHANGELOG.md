@@ -11,6 +11,7 @@ All notable changes to this project will be documented in this file.
 - Metadata fields `retry_count` and `backoff_duration` added to the `retry` processor. (@mihaitodor)
 - Parameter `escape_html` added to the `format_json()` Bloblang method. (@mihaitodor)
 - Go API: New `BloblangExecutor` and `InterpolationExecutor` added to the `MessageBatch`. (@Jeffail)
+- New `array` bloblang method. (@gramian)
 
 ## 4.30.0 - 2024-06-13
 
